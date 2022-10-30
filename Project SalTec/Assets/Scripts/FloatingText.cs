@@ -30,7 +30,6 @@ public class FloatingText
         if (!active)
             return;
 
-        //     10     -     7     >     2
         if (Time.time - lastShown > duration)
             Hide();
 
