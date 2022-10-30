@@ -4074,7 +4074,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_189
+      name: Chest_0
       rect:
         serializedVersion: 2
         x: 224
@@ -4095,7 +4095,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_190
+      name: Chest_3
       rect:
         serializedVersion: 2
         x: 240
@@ -4410,7 +4410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_205
+      name: Chest_1
       rect:
         serializedVersion: 2
         x: 224
@@ -4431,7 +4431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_206
+      name: Chest_4
       rect:
         serializedVersion: 2
         x: 240
@@ -4725,7 +4725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_220
+      name: Chest_2
       rect:
         serializedVersion: 2
         x: 224
@@ -4746,7 +4746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16DungeonTileset.v4_221
+      name: Chest_5
       rect:
         serializedVersion: 2
         x: 240
@@ -5291,7 +5291,6 @@ TextureImporter:
       16x16DungeonTileset.v4_223: 758633565
       16x16DungeonTileset.v4_139: -2136517294
       16x16DungeonTileset.v4_166: 1337326408
-      16x16DungeonTileset.v4_190: -1248635477
       16x16DungeonTileset.v4_229: 1971808857
       16x16DungeonTileset.v4_92: 1022549030
       16x16DungeonTileset.v4_101: -789621818
@@ -5310,9 +5309,9 @@ TextureImporter:
       16x16DungeonTileset.v4_35: 1952659428
       16x16DungeonTileset.v4_230: 938856095
       16x16DungeonTileset.v4_211: 1459607143
-      16x16DungeonTileset.v4_49: -742526135
       16x16DungeonTileset.v4_122: -1902424833
       16x16DungeonTileset.v4_144: -714508791
+      16x16DungeonTileset.v4_49: -742526135
       16x16DungeonTileset.v4_204: 1968557641
       16x16DungeonTileset.v4_45: 1666946948
       16x16DungeonTileset.v4_175: 1850811074
@@ -5343,25 +5342,25 @@ TextureImporter:
       16x16DungeonTileset.v4_54: 736703898
       16x16DungeonTileset.v4_105: 189477189
       16x16DungeonTileset.v4_186: -1284066736
-      16x16DungeonTileset.v4_220: -553915365
       16x16DungeonTileset.v4_187: -1918256458
       16x16DungeonTileset.v4_60: -1105212534
-      16x16DungeonTileset.v4_68: 247893636
+      16x16DungeonTileset.v4_180: 313831253
+      16x16DungeonTileset.v4_181: 1001784280
       16x16DungeonTileset.v4_88: -723704831
       16x16DungeonTileset.v4_15: -756577051
       16x16DungeonTileset.v4_52: 396902040
-      16x16DungeonTileset.v4_180: 313831253
+      16x16DungeonTileset.v4_68: 247893636
       16x16DungeonTileset.v4_17: -391748962
       16x16DungeonTileset.v4_129: 1383172024
-      16x16DungeonTileset.v4_181: 1001784280
       16x16DungeonTileset.v4_10: 2109373673
       16x16DungeonTileset.v4_218: -1961342004
       16x16DungeonTileset.v4_155: -310577448
       16x16DungeonTileset.v4_26: 9001277
       16x16DungeonTileset.v4_106: -1995765172
       16x16DungeonTileset.v4_66: -451990288
-      16x16DungeonTileset.v4_132: -986799664
+      Chest_5: -1156950405
       16x16DungeonTileset.v4_200: 1781034871
+      16x16DungeonTileset.v4_132: -986799664
       16x16DungeonTileset.v4_134: -1416299484
       16x16DungeonTileset.v4_157: 1797958040
       16x16DungeonTileset.v4_21: -1367399866
@@ -5390,6 +5389,7 @@ TextureImporter:
       16x16DungeonTileset.v4_108: -1849613883
       16x16DungeonTileset.v4_31: -461754604
       16x16DungeonTileset.v4_1: 107189144
+      Chest_4: 1439619053
       16x16DungeonTileset.v4_195: -1241366664
       16x16DungeonTileset.v4_12: 1166211142
       16x16DungeonTileset.v4_3: 1596331841
@@ -5401,7 +5401,6 @@ TextureImporter:
       16x16DungeonTileset.v4_194: 268954810
       16x16DungeonTileset.v4_75: 2009791761
       16x16DungeonTileset.v4_34: 1641338433
-      16x16DungeonTileset.v4_221: -1156950405
       16x16DungeonTileset.v4_100: -1518820695
       16x16DungeonTileset.v4_193: 46242311
       16x16DungeonTileset.v4_120: -323278626
@@ -5432,6 +5431,7 @@ TextureImporter:
       16x16DungeonTileset.v4_115: -242412579
       16x16DungeonTileset.v4_128: 622035405
       16x16DungeonTileset.v4_64: 1368389367
+      Chest_3: -1248635477
       16x16DungeonTileset.v4_167: 375418960
       16x16DungeonTileset.v4_30: 435505616
       16x16DungeonTileset.v4_62: 957026302
@@ -5474,7 +5474,7 @@ TextureImporter:
       16x16DungeonTileset.v4_160: 1924738287
       16x16DungeonTileset.v4_244: 1632187719
       16x16DungeonTileset.v4_163: 631050179
-      16x16DungeonTileset.v4_205: -1189297653
+      Chest_0: -1980420940
       16x16DungeonTileset.v4_5: -198435133
       16x16DungeonTileset.v4_243: 125535463
       16x16DungeonTileset.v4_125: -68976459
@@ -5489,11 +5489,11 @@ TextureImporter:
       16x16DungeonTileset.v4_127: -2063272463
       16x16DungeonTileset.v4_149: 1923688980
       16x16DungeonTileset.v4_19: -1971754496
+      Chest_2: -553915365
       16x16DungeonTileset.v4_82: -1563185631
       16x16DungeonTileset.v4_162: 898710342
       16x16DungeonTileset.v4_23: 211680356
       16x16DungeonTileset.v4_4: 664986403
-      16x16DungeonTileset.v4_189: -1980420940
       16x16DungeonTileset.v4_153: -1029975778
       16x16DungeonTileset.v4_14: -1512554465
       16x16DungeonTileset.v4_44: 1229576593
@@ -5515,6 +5515,7 @@ TextureImporter:
       16x16DungeonTileset.v4_119: -119307104
       16x16DungeonTileset.v4_69: -677720913
       16x16DungeonTileset.v4_104: -57769634
+      Chest_1: -1189297653
       16x16DungeonTileset.v4_158: 870884334
       16x16DungeonTileset.v4_50: 1674691907
       16x16DungeonTileset.v4_171: -554767739
@@ -5526,7 +5527,6 @@ TextureImporter:
       16x16DungeonTileset.v4_20: -536823230
       16x16DungeonTileset.v4_126: 185196831
       16x16DungeonTileset.v4_212: 984427600
-      16x16DungeonTileset.v4_206: 1439619053
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
