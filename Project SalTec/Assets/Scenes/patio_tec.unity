@@ -5146,7 +5146,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53829732}
   m_LocalRotation: {x: -0, y: -0, z: -0.14843504, w: 0.9889222}
-  m_LocalPosition: {x: 0.093000054, y: 0.073000014, z: 0}
+  m_LocalPosition: {x: 0.085, y: 0.078, z: 0}
   m_LocalScale: {x: 0.6999999, y: 0.6999999, z: 0.7}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5273,7 +5273,7 @@ GameObject:
   - component: {fileID: 480138389}
   m_Layer: 7
   m_Name: Player_1
-  m_TagString: Untagged
+  m_TagString: Fighter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5338,7 +5338,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 480138386}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.724, y: -0.08, z: 0}
+  m_LocalPosition: {x: -1.364, y: -0.882, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5385,7 +5385,7 @@ GameObject:
   - component: {fileID: 725716575}
   m_Layer: 7
   m_Name: Player_0
-  m_TagString: Untagged
+  m_TagString: Fighter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

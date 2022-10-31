@@ -37,6 +37,16 @@ public class Weapon : Collidable
 
     }
 
+    protected override void OnCollide(Collider2D coll)
+    {
+        if(coll.tag == "Fighter")
+        {
+            if (coll.name == "Player_0")
+                return;
+                Debug.Log(coll.name);
+        }
+    }
+
     private void Swing()
     {
         Debug.Log("Swing");
