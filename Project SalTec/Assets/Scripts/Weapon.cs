@@ -43,6 +43,8 @@ public class Weapon : Collidable
         {
             if (coll.name == "Player_0")
                 return;
+
+
                 Debug.Log(coll.name);
         }
     }
