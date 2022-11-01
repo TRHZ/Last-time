@@ -5232,8 +5232,15 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
-  damagePoint: 1
-  pushForce: 3
+  damagePoint: 01000000020000000300000004000000050000000600000007000000
+  pushForce:
+  - 2
+  - 2.2
+  - 2.5
+  - 3
+  - 3.2
+  - 3.6
+  - 4
   weaponLevel: 0
 --- !u!61 &53829736
 BoxCollider2D:
@@ -5665,7 +5672,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 392099744}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 75226469}
+        m_TargetAssemblyTypeName: CharacterMenu, Assembly-CSharp
+        m_MethodName: OnArrowClick
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &392099744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6253,8 +6272,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3141dd048cfff3b46b169e5149740acc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitpoint: 10
-  maxHitpoint: 10
+  hitpoint: 5
+  maxHitpoint: 5
   pushRecoverySpeed: 0.2
 --- !u!61 &725716576
 BoxCollider2D:
@@ -13839,7 +13858,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1332415549}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 75226469}
+        m_TargetAssemblyTypeName: CharacterMenu, Assembly-CSharp
+        m_MethodName: OnArrowClick
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
 --- !u!114 &1332415549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14441,7 +14472,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1550145013}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 75226469}
+        m_TargetAssemblyTypeName: CharacterMenu, Assembly-CSharp
+        m_MethodName: OnUpgradeClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1550145013
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100626,15 +100669,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 333e59ccc8f79f9448373636d69e32f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSprites: []
+  playerSprites:
+  - {fileID: 1058039898, guid: 37f6873df65e74c4a93ee575c0dd99a5, type: 3}
+  - {fileID: -6289432, guid: 37f6873df65e74c4a93ee575c0dd99a5, type: 3}
   weaponSprites:
   - {fileID: 734041534, guid: 37f6873df65e74c4a93ee575c0dd99a5, type: 3}
   - {fileID: -396342710, guid: 37f6873df65e74c4a93ee575c0dd99a5, type: 3}
-  weaponPrices: 
-  xpTable: 
+  weaponPrices: 1e00000046000000
+  xpTable: 050000000a00000011000000190000001e0000002800000037000000460000005a00000078000000
   player: {fileID: 725716575}
+  weapon: {fileID: 53829735}
   floatingTextManager: {fileID: 1860793518}
-  pesos: 0
+  pesos: 100
   experience: 0
 --- !u!4 &1892081001
 Transform:
