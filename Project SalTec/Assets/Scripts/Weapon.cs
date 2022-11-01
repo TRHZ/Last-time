@@ -13,6 +13,7 @@ public class Weapon : Collidable
     private SpriteRenderer sprintRenderer;
 
     //Swing
+    private Animator anim;
     private float cooldown = 0.5f;
     private float lastSwing;
 
@@ -20,6 +21,7 @@ public class Weapon : Collidable
     {
         base.Start();
         sprintRenderer = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
 
     protected override void Update()
@@ -31,7 +33,7 @@ public class Weapon : Collidable
             if(Time.time - lastSwing > cooldown)
             {
                 lastSwing = Time.time;
-                //lastSwing();
+                Swing();
             }
         }
 
@@ -47,19 +49,17 @@ public class Weapon : Collidable
             //Create a new damage object, then we'll send it to the fighter we´ve hit
             Damage dmg = new Damage
             {
-                damageAmount = damagePoint,
-                origin = transform.position,
-                pushForce = pushForce
-            };
-
+             damageAmount = damagePoint,
+             origin = transform.position,
+             pushForce = pushForce
+             };
 
             coll.SendMessage("ReceiveDamage", dmg);
-                //Debug.Log(coll.name);
         }
     }
 
     private void Swing()
     {
-        Debug.Log("Swing");
+        anim.SetTrigger("Swing");
     }
 }
