@@ -153,9 +153,10 @@ public class GameManager : MonoBehaviour
 
         //Change the weapon Level
          weapon.SetWeaponLevel(int.Parse(data[3]));
-        
 
-        Debug.Log("Load State");
+        player.transform.position = GameObject.Find("SpawnPoint").transform.position;
+
+        //Debug.Log("Load State");
     }
 
 
