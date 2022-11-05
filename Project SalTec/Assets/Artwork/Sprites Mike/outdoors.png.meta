@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: outdoors_0
+      name: ver1
       rect:
         serializedVersion: 2
         x: 0
@@ -5031,7 +5031,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_234
+      name: ver22
       rect:
         serializedVersion: 2
         x: 144
@@ -5535,7 +5535,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_258
+      name: ver21
       rect:
         serializedVersion: 2
         x: 144
@@ -8244,7 +8244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_387
+      name: ver14
       rect:
         serializedVersion: 2
         x: 160
@@ -8265,7 +8265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_388
+      name: ver15
       rect:
         serializedVersion: 2
         x: 176
@@ -8286,7 +8286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_389
+      name: ver16
       rect:
         serializedVersion: 2
         x: 192
@@ -8307,7 +8307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_390
+      name: ver4
       rect:
         serializedVersion: 2
         x: 208
@@ -8328,7 +8328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_391
+      name: ver5
       rect:
         serializedVersion: 2
         x: 224
@@ -8349,7 +8349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_392
+      name: ver6
       rect:
         serializedVersion: 2
         x: 240
@@ -8370,7 +8370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_393
+      name: ver31
       rect:
         serializedVersion: 2
         x: 256
@@ -8391,7 +8391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_394
+      name: ver32
       rect:
         serializedVersion: 2
         x: 272
@@ -8706,7 +8706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_409
+      name: ver11
       rect:
         serializedVersion: 2
         x: 160
@@ -8727,7 +8727,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_410
+      name: ver12
       rect:
         serializedVersion: 2
         x: 176
@@ -8748,7 +8748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_411
+      name: ver13
       rect:
         serializedVersion: 2
         x: 192
@@ -8769,7 +8769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_412
+      name: verde1
       rect:
         serializedVersion: 2
         x: 208
@@ -8790,7 +8790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_413
+      name: ver2
       rect:
         serializedVersion: 2
         x: 224
@@ -8811,7 +8811,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_414
+      name: ver3
       rect:
         serializedVersion: 2
         x: 240
@@ -8832,7 +8832,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_415
+      name: ver33
       rect:
         serializedVersion: 2
         x: 256
@@ -8853,7 +8853,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: outdoors_416
+      name: ver34
       rect:
         serializedVersion: 2
         x: 272
@@ -11576,6 +11576,7 @@ TextureImporter:
       outdoors_189: -857925630
       outdoors_110: -916444367
       outdoors_85: 275439468
+      ver12: 1950991182
       outdoors_274: 1511877344
       arq1: -788719653
       outdoors_307: -922612766
@@ -11593,6 +11594,7 @@ TextureImporter:
       outdoors_359: -1953923113
       outdoors_396: 410982926
       outdoors_280: -1739527414
+      ver21: 178311328
       outdoors_527: -1684746165
       outdoors_531: -1314023937
       outdoors_520: 889571327
@@ -11606,7 +11608,6 @@ TextureImporter:
       outdoors_397: -296732172
       outdoors_26: 1379709978
       arq6: -202755437
-      outdoors_389: -896136389
       outdoors_123: -999299440
       outdoors_31: 1818422703
       outdoors_180: 1932924189
@@ -11614,18 +11615,17 @@ TextureImporter:
       outdoors_194: 1877768162
       outdoors_291: 2033903653
       outdoors_437: -2051929260
+      ver5: 1970458788
       outdoors_264: -2035526898
-      outdoors_514: 2111626360
       outdoors_200: -1503361908
+      outdoors_514: 2111626360
       outdoors_375: -1186136979
-      outdoors_412: 577898175
       outdoors_229: 683455558
       outdoors_5: -817667251
       outdoors_134: 1821674832
       outdoors_455: -855248228
       outdoors_313: 99948696
       outdoors_45: 1680883316
-      outdoors_409: -818459486
       outdoors_207: -1079882092
       outdoors_482: -1769488064
       outdoors_337: -758512620
@@ -11644,6 +11644,7 @@ TextureImporter:
       outdoors_204: -79563686
       Silla: 604956199
       outdoors_70: -843547599
+      ver3: -687021157
       outdoors_228: 1764396155
       outdoors_158: 1828801099
       outdoors_533: -1803385350
@@ -11654,9 +11655,9 @@ TextureImporter:
       outdoors_439: -458840086
       outdoors_128: -1956391437
       outdoors_2: 1174632541
+      ver2: 79883301
       outdoors_356: -220816081
       outdoors_92: 1784833630
-      outdoors_414: -687021157
       outdoors_94: -886892965
       outdoors_205: 2101365170
       outdoors_369: -916488138
@@ -11673,6 +11674,7 @@ TextureImporter:
       outdoors_342: -1116275277
       outdoors_474: 702625204
       outdoors_277: -941647173
+      ver15: -515182386
       outdoors_103: 1161861961
       outdoors_458: -580329770
       outdoors_354: -33151619
@@ -11682,12 +11684,14 @@ TextureImporter:
       outdoors_19: -1771093458
       outdoors_495: -886618283
       outdoors_187: -67606836
+      ver1: 2146675609
       outdoors_142: 842759566
       outdoors_380: -1141192450
       outdoors_232: -840433716
       outdoors_10: 550080507
       outdoors_374: 229434128
       outdoors_492: -2135965724
+      ver31: 790514807
       outdoors_116: 1864902310
       outdoors_509: 1874716573
       outdoors_282: -504434317
@@ -11705,29 +11709,28 @@ TextureImporter:
       outdoors_491: -2050091122
       outdoors_518: -1197916431
       outdoors_246: -9551153
-      outdoors_390: 2102792305
-      outdoors_38: -2039526909
       outdoors_510: -1708918915
+      outdoors_38: -2039526909
       outdoors_336: 441838782
       outdoors_206: -1381360988
+      outdoors_222: -1848871511
       outdoors_513: -487124284
       outdoors_4: 610649650
       outdoors_395: 1249075902
-      outdoors_222: -1848871511
+      outdoors_371: -740079374
       outdoors_530: 1614133758
       outdoors_446: -1190199330
       outdoors_74: 1121418326
       outdoors_270: 419128745
-      outdoors_371: -740079374
+      outdoors_48: 1934912490
       outdoors_173: -1574554368
       outdoors_251: -1988062184
+      ar113: 1643086071
       outdoors_54: -1678978328
       outdoors_461: -1186240148
-      ar113: 1643086071
-      outdoors_48: 1934912490
+      outdoors_525: -727143546
       outdoors_432: -1054136175
       outdoors_231: -1383990799
-      outdoors_525: -727143546
       outdoors_519: 2098862114
       outdoors_443: 467145281
       outdoors_124: 1162687159
@@ -11742,13 +11745,11 @@ TextureImporter:
       outdoors_28: 740385456
       outdoors_219: -703633537
       outdoors_199: -1599521432
-      outdoors_416: 1321470341
       outdoors_37: -690861244
       outdoors_166: -932736224
       outdoors_257: -652989137
       outdoors_517: 507315227
       outdoors_453: 1912055854
-      outdoors_411: -1580897639
       arq4: 978178438
       outdoors_17: -342870737
       mesa: 1274716296
@@ -11759,6 +11760,7 @@ TextureImporter:
       arq2: -454757062
       outdoors_348: -899185409
       outdoors_501: 972605776
+      ver14: -923520070
       outdoors_239: -946773629
       outdoors_233: 1000671179
       outdoors_224: -93520860
@@ -11769,6 +11771,7 @@ TextureImporter:
       outdoors_52: 168041391
       outdoors_69: 54233416
       outdoors_419: -3758623
+      ver13: -1580897639
       outdoors_214: 1983046501
       outdoors_215: -816593936
       outdoors_132: -674504701
@@ -11784,6 +11787,7 @@ TextureImporter:
       outdoors_133: -1011229789
       outdoors_153: 534424833
       outdoors_376: 132779388
+      ver22: -1677021608
       outdoors_403: 240538845
       outdoors_499: 233214815
       outdoors_479: -204769377
@@ -11796,9 +11800,9 @@ TextureImporter:
       outdoors_126: 1753794798
       outdoors_260: -1661080695
       outdoors_243: -818058580
+      ver33: 1100237566
       outdoors_480: 991977765
       outdoors_84: 75936298
-      outdoors_0: 2146675609
       outdoors_478: -1713079333
       outdoors_250: 621234609
       outdoors_98: -1850733422
@@ -11836,13 +11840,13 @@ TextureImporter:
       outdoors_456: 649122823
       outdoors_540: -1588163861
       outdoors_377: 960102801
+      verde1: 577898175
       outdoors_202: -1611233118
       outdoors_83: -63617166
       outdoors_67: -2046255454
-      outdoors_267: -498943540
-      outdoors_18: -251318483
-      outdoors_387: -923520070
       outdoors_211: -134377169
+      outdoors_18: -251318483
+      outdoors_267: -498943540
       outdoors_7: -2117779668
       outdoors_502: -1072976686
       outdoors_95: 829265722
@@ -11853,6 +11857,7 @@ TextureImporter:
       outdoors_125: -893816895
       outdoors_465: -1710660349
       outdoors_423: -344359729
+      ver6: -856630899
       outdoors_23: 1783805973
       outdoors_276: 1196689857
       outdoors_255: -1924146154
@@ -11868,15 +11873,15 @@ TextureImporter:
       outdoors_261: 188250901
       outdoors_384: 900181876
       outdoors_97: 682007291
-      outdoors_309: -1839632343
       outdoors_184: 1365261576
+      outdoors_309: -1839632343
       outdoors_115: -128049036
       outdoors_8: -66100547
       outdoors_144: -1930379873
       outdoors_175: 917966767
       outdoors_254: 1195939047
-      outdoors_420: -1170076815
       outdoors_473: -124044636
+      outdoors_420: -1170076815
       outdoors_363: 2017286991
       outdoors_3: 883971646
       outdoors_293: 1074545709
@@ -11885,7 +11890,6 @@ TextureImporter:
       outdoors_86: -1678163048
       outdoors_249: 485748671
       outdoors_75: -1757672642
-      outdoors_413: 79883301
       outdoors_11: 193586017
       outdoors_263: 929816093
       outdoors_447: 1871156104
@@ -11935,7 +11939,6 @@ TextureImporter:
       outdoors_357: 1205207323
       outdoors_198: -215878554
       outdoors_484: -1707587080
-      outdoors_410: 1950991182
       outdoors_421: -1640374491
       outdoors_398: -2034752913
       outdoors_135: 2052660273
@@ -11960,12 +11963,12 @@ TextureImporter:
       outdoors_324: 415120809
       outdoors_55: -669595648
       outdoors_160: -1391605589
+      ver34: 1321470341
       outdoors_208: -1810899641
       outdoors_401: -2048580605
       outdoors_269: -1440897987
       outdoors_508: 1403871896
       outdoors_311: -1008798151
-      outdoors_393: 790514807
       outdoors_297: -1257657972
       outdoors_372: -1532470400
       outdoors_33: 347343994
@@ -11995,7 +11998,6 @@ TextureImporter:
       outdoors_188: 288701531
       outdoors_483: -354926853
       outdoors_36: 434206327
-      outdoors_391: 1970458788
       outdoors_435: -1376140701
       outdoors_366: -1221822140
       outdoors_209: -210536379
@@ -12008,6 +12010,7 @@ TextureImporter:
       outdoors_290: -1317223670
       outdoors_197: 120427633
       arq22: -108111391
+      ver4: 2102792305
       outdoors_247: -580935216
       outdoors_339: 1810128805
       outdoors_515: -1449225993
@@ -12017,15 +12020,14 @@ TextureImporter:
       outdoors_347: -908644608
       arq8: 1582191582
       outdoors_35: 859636007
-      outdoors_388: -515182386
       outdoors_332: -315693934
       outdoors_120: -1479059994
       outdoors_159: -676792931
       outdoors_100: 1580755973
       outdoors_201: -1112857383
       outdoors_155: -912789549
-      outdoors_258: 178311328
       outdoors_27: -1421680447
+      ver16: -896136389
       outdoors_87: 2059271188
       outdoors_119: -527209751
       outdoors_76: 984042602
@@ -12034,25 +12036,22 @@ TextureImporter:
       outdoors_305: 2108435646
       senal1: -844122198
       outdoors_118: 54610965
-      outdoors_234: -1677021608
+      outdoors_438: 526114829
       outdoors_213: -1904230078
       outdoors_241: -578627981
       outdoors_344: 1531431607
-      outdoors_394: -1642742444
+      ver11: -818459486
       outdoors_220: 661169162
-      outdoors_392: -856630899
       outdoors_145: -576918288
       outdoors_216: -2100356848
       outdoors_457: -907222038
       outdoors_306: -1449150158
       outdoors_25: 185745422
       outdoors_373: -684427820
-      outdoors_415: 1100237566
       outdoors_440: -1170006447
       outdoors_79: 308813940
       outdoors_137: 743723669
       outdoors_523: -750304968
-      outdoors_438: 526114829
       outdoors_127: 1703742227
       outdoors_528: 1671437383
       outdoors_212: 1221142427
@@ -12065,6 +12064,7 @@ TextureImporter:
       outdoors_273: 1797575557
       outdoors_418: 1881193477
       outdoors_318: 1310999152
+      ver32: -1642742444
       outdoors_154: 87217105
       outdoors_161: 1038339024
       outdoors_289: 2051502870
