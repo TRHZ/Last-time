@@ -11,4 +11,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EsterEgg.unity
     guid: d4114a5f7d2816b46a89be224c5a0e22
+  - enabled: 1
+    path: Assets/Scenes/Edif_amarillo.unity
+    guid: 9686500bb918f5b479d450b388dbaff3
+  - enabled: 1
+    path: Assets/Scenes/Edif_azul.unity
+    guid: 639476bfb59890141b751daa372f38de
+  - enabled: 1
+    path: Assets/Scenes/Edif_rojo.unity
+    guid: b1a79f8145731004b9bf08e7b81c6690
+  - enabled: 1
+    path: Assets/Scenes/Edif_verde.unity
+    guid: fd3685ba69ea619409b8c927c3e75785
   m_configObjects: {}
